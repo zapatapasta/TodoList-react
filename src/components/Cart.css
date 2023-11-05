@@ -1,0 +1,27 @@
+.cart {
+    width: 500px;
+    height: 100px;
+    background-color: brown;
+    border-radius: 25px 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+.cart-com {
+    background-color: chartreuse;
+}
+.cart-com h2{
+    background-color: chartreuse;
+}
+.cart h2{
+    border-radius: 25px 25px;
+    width: 70%;
+}
+.cart button{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    text-align: center;
+}
